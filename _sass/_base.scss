@@ -171,6 +171,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  padding: 1rem 2rem;
 }
 
 .navbar .dropdown-menu {
@@ -212,6 +213,8 @@ blockquote {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    padding-right: 1rem;
+    padding-left: 1rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -305,7 +308,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
