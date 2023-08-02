@@ -130,16 +130,17 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 4rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 4rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
+    height: 100%;
 
     .address {
       p {
@@ -162,7 +163,6 @@ blockquote {
     }
   }
 }
-
 
 // Navbar customization
 
@@ -1037,3 +1037,16 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+// About
+
+.aboutgreeting {
+  padding-bottom: 2rem;
+  text-align: left;
+}
+
+.aboutpost {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
