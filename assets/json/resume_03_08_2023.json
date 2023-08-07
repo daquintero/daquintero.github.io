@@ -1,0 +1,289 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "🚀 Dario Antonio Quintero Dominguez",
+    "label": "Electronics for Quantum Photonics | Qontrol | EEE PhD Candidate @ Bristol",
+    "image": "",
+    "email": "darioaquintero@gmail.com",
+    "phone": "+44 7397382582",
+    "url": "",
+    "summary": "My research interests are cryo-CMOS for quantum photonic systems, mixed-signal CMOS design, RF CMOS design, precise analogue CMOS design, microelectronics, quantum computation architectures, silicon quantum photonics design, electro-optic modulator design - particularly Kerr effect, single photon detector integration etc.\n\nI have done several complex and diverse engineering projects ranging from designing commercial photonic controller electronics, designing/building/validating a quantum optoelectronic experimental setup, designing/building/developing an optical microscope electronic autofocus controller, designing/building/developing an automatic handwriting robot, developing an informed vote web application alongside anti-corruption journalists, etc...\n\n🇪🇺🇪🇸🇵🇦",
+    "location": {
+      "countryCode": "US",
+      "address": "United Kingdom"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "darioquintero",
+        "url": "https://www.linkedin.com/in/darioquintero/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Qontrol Systems",
+      "position": "Electronics Design Engineer",
+      "startDate": "2020-11-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Design of commercial electronics control modules for photonics applications.",
+      "url": "https://www.linkedin.com/company/qontrol-systems-llp/",
+      "location": "Bristol, England, United Kingdom"
+    },
+    {
+      "name": "Qontrol Systems",
+      "position": "Electronics Design Engineer Intern",
+      "startDate": "2020-06-30",
+      "endDate": "2020-11-30",
+      "highlights": [],
+      "summary": "I designed analogue and digital electronic systems for next-generation commercial integrated photonics controllers.",
+      "url": "https://www.linkedin.com/company/qontrol-systems-llp/",
+      "location": "Bristol, England, United Kingdom"
+    },
+    {
+      "name": "Illumina",
+      "position": "Systems Integration Intern",
+      "startDate": "2019-07-31",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "summary": "I designed and built an optical microscope electronic controller. I did the conceptual design, circuit prototyping, software integration, and full assembly. The controller performs auto-focusing and flow-cell imperfection detection.\nI developed the C++ control library, MATLAB-C++ API, and custom UI.\nVerified that the controller reliably performs auto-focused line scans with <1.5% error rate.",
+      "url": "https://www.linkedin.com/company/illumina/",
+      "location": "Cambridge, United Kingdom"
+    },
+    {
+      "name": "Copa Airlines",
+      "position": "Engineering Intern",
+      "startDate": "2018-08-31",
+      "endDate": "2018-09-30",
+      "highlights": [],
+      "summary": "Made the special entry and exit maintenance tasks database and wrote some related task cards for the new 737-MAX aircraft A-Check maintenance program.\n• Helped integrate maintenance teams’ feedback into more efficient repairs task organisations.\n• Migrated outdated engineering repair documents to the current maintenance requirements.",
+      "url": "https://www.linkedin.com/company/copa-airlines/",
+      "location": "Panama"
+    },
+    {
+      "name": "The Handwriting Company",
+      "position": "Robotics Design Intern",
+      "startDate": "2018-06-30",
+      "endDate": "2018-07-31",
+      "highlights": [],
+      "summary": "I designed, built, and programmed the first fully-functional automatised handwriting robot used for fulfilling the initial letter orders (worth £5k+ before I left) .\n• Led a team of two more engineers during the second month to make improvements on the initial system. Did the firmware integration with the AI handwriting program developed by the CS lead. Manufactured four more machines that are still in operation (Oct-18).",
+      "url": "https://www.linkedin.com/company/scribeless/",
+      "location": "Bristol, United Kingdom"
+    },
+    {
+      "name": "Copa Airlines",
+      "position": "Engineering Intern",
+      "startDate": "2015-02-28",
+      "endDate": "2015-05-31",
+      "highlights": [],
+      "summary": "-Assisted engineers in the following functions: \nDevelopment of a new maintenance operation organisation and transferring equivalency between previous planned aircraft repairs to the new efficient system packages. \n-Preparation of technical aircraft repair documentation from EMBRAER into the Copa Airlines system. \n-Inspections of aircraft avionics, structural, interior, electrical and hydraulic systems and their repair preparation.",
+      "url": "https://www.linkedin.com/company/copa-airlines/",
+      "location": "Panama City, Panama"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bruvuno",
+      "position": "Project Coordinator",
+      "startDate": "2017-08-31",
+      "endDate": "2022-03-31",
+      "summary": "I was the initial local project coordinator for a clean water Engineers Without Borders (EWB)-USA indigenous community development project in Cerro Muleto, Ngobe Bugle. I led logistics and communications between all organizations for the first 3 years of the project, and now it has been taken over by the Rotary Club NGO in David, Panama in partnership with the Technological University of Panama. Together we have done more than five implementation and research trips that have improved the water availability, quality, and lifestyle in this indigenous community in Panama. \n\nAlong with our team of volunteers, we assisted the community to apply for this EWB-USA development project. The project is in collaboration with EWB-USA North-East Ohio, Rotary Club NGO, Technological University of Panama, local government, and community organizations. I have a mainly advisory role now.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "University of Bristol",
+      "position": "Undergraduate Faculty Representative of Engineering",
+      "startDate": "2017-09-30",
+      "endDate": "2018-06-30",
+      "summary": "Elected by the undergraduate student body of the Faculty of Engineering to head student representation in administrative and academic matters.\n\nAs co-chair of the faculty staff-student committee, I worked with course reps and administrative staff to solve issues such as: improving 3D printing services, creating a centralized events calendar, improving student societies collaboration by leading a societies committee, sustainability and welfare actions, proposing a room-booking app, supporting faculty refurbishments, listening by actively asking students for feedback, etc.\n\nI led the research and development of a 26-page proposal to improve feedback mechanisms within the faculty working alongside the senior faculty education academics, administrative staff, and an amazing group of course representatives. It was taken forward by three different academic/administrative levels of the university.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/8094"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Bristol",
+      "area": "Integrated Electronics for Integrated Quantum Photonics",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2020-12-31",
+      "endDate": "2024-12-31",
+      "score": "",
+      "courses": [
+        "null - Tutorial on SG13 BiCMOS PDK including Cu backend using Cadence and ADS Interoperability - Europractice, IHP",
+        "null - Introduction to Analogue IC Design, Simulation, Layout and Verification Live using Cadence Virtuoso flow - Europractice STFC",
+        "null - Comprehensive Digital IC Implementation & Sign-Off - Europractice STFC",
+        "null - Introduction to Analogue Mixed Signal IC Design - Europractice STFC"
+      ]
+    },
+    {
+      "institution": "University of Bristol",
+      "area": "Engineering",
+      "studyType": "BEng Mechanical and Electrical Engineering",
+      "startDate": "2017-12-31",
+      "endDate": "2020-12-31",
+      "score": "First Class Honours, 76% Avg.",
+      "courses": []
+    },
+    {
+      "institution": "Academia Inter-Americana de Panama",
+      "area": "",
+      "studyType": "Panamanian High School Degree",
+      "startDate": "2010-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "CSS Hackathon 2018 - Explore Space Winners",
+      "date": "2018-03-31",
+      "awarder": "CSS Boeing Hackathon 2018: SPACE ",
+      "summary": "Built a Mars Rover simulator using a Rasberry Pi, a projector, designed an adequate stand, controls and almost a mechanical and digital control of the physical and digital rover. \n\nFor the Computer Science Society 24 Hour Hackathon sponsored by Boeing. \n\nPictures of our award and team:\nhttps://www.facebook.com/css.bristol.9/photos/a.552807641768515.1073741829.186624821720134/552809378435008/?type=3&theater"
+    },
+    {
+      "title": "Paul Dirac Award",
+      "date": "2017-12-31",
+      "awarder": "Engineering Faculty",
+      "summary": "In honour of the Bristol born Theoretical Physicist Paul Dirac, the Faculty of Engineering hosts an overseas scholarship scheme for academically exceptional students from outside the UK or the EU. \nhttp://www.bristol.ac.uk/engineering/departments/eeng/courses/undergraduate/prizes/"
+    },
+    {
+      "title": "2 Bronze Medals at National Mathematics Olympiads",
+      "date": "2015-12-31",
+      "awarder": "University of Panama and OPM Organizers",
+      "summary": "http://www.opm.org.pa/"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LaTeX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AutoCAD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design for Manufacturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Autodesk Inventor",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lean Manufacturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Travail d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Parler en public",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Robert Van Den Bergh",
+      "reference": "Dario joined our team to build an early stage prototype of our robotics system. He worked incredibly hard, had some really innovative ideas to improve reliability and efficiency and was great fun to have in the team. I could not recommend Dario more!"
+    },
+    {
+      "name": "Caitlin Flint",
+      "reference": "Dario is a valuable member of the Education Network. The Education Network is a platform for Academic Course Representatives, Faculty Representatives, Education Officers, student groups and individual students at University of Bristol. Dario played an important role in building an educational student community and helping to create change through collective action."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Informed Vote Web Application",
+      "startDate": "2018-10-31",
+      "summary": "Developed an informed vote web application for the Panamanian national elections in partnership with Praxis News local journalists. We had over 10k+ visits and were featured in a large national newspaper. The web app consisted of displaying anti-corruption historical research, candidate profiles and voting guide manual.\n\nI worked in the React.js frontend, translated the journalists' concept to code, designed the backend schema, collaboratively integrated AWS S3, Django, and Axios, etc. See the frontend repo in Github.",
+      "url": "https://github.com/daquintero/voto-main-frontend",
+      "endDate": "2019-05-31"
+    },
+    {
+      "name": "Submarine Gromits for Grand Appeal 2",
+      "startDate": "2018-05-31",
+      "summary": "In support of the Bristol Grand Appeal 2 to fundraise money for the Bristol Royal Infirmary, the Faculty of Engineering committed to make two interactive Gromits with the submarine theme as in the news article.\n\nI designed and built the camera periscope assembly through which both Gromits sent the video input to each other, and helped manufacture the the internal structure assembly to sustain the weight of the modifications, the porthole, tubing and internal cabling.",
+      "url": "http://www.bristol.ac.uk/news/2018/june/gromit-unleashed-starts.html",
+      "endDate": "2018-06-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
