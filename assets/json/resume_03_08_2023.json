@@ -7,7 +7,7 @@
     "email": "darioaquintero@gmail.com",
     "phone": "+44 7397382582",
     "url": "",
-    "summary": "My research interests are cryo-CMOS for quantum photonic systems, mixed-signal CMOS design, RF CMOS design, precise analogue CMOS design, microelectronics, quantum computation architectures, silicon quantum photonics design, electro-optic modulator design - particularly Kerr effect, single photon detector integration etc.\n\nI have done several complex and diverse engineering projects ranging from designing commercial photonic controller electronics, designing/building/validating a quantum optoelectronic experimental setup, designing/building/developing an optical microscope electronic autofocus controller, designing/building/developing an automatic handwriting robot, developing an informed vote web application alongside anti-corruption journalists, etc...\n\n🇪🇺🇪🇸🇵🇦",
+    "summary": "My name is Dario and I am a bit of a poly-engineer. \n\nMy PhD is on co-designing electronics and optics on multiple silicon chips to create quantum systems. I also design software tools to design and simulate such systems, and am a contributor to multiple open-source projects. I have tapeout >4 silicon mixed-signal electronics chips in XFAB and TSMC via Cadence, and photonics in AMF through IPKISS. However, I am now a passionate supporter of open-source tools. \n\nMy BEng was on Electrical and Mechanical Engineering, and for my thesis I built an uncertified Class-4 mechanical-electrical-optical-thermally controlled quantum spintronic experiment in my bedroom during COVID. I have also done multiple internships from large multinational companies to small startups.\n\nMy current interests are in creating software tools to design multi-physical systems and solve problems we currently cannot with disjointed physics models. \n\nI am exploring if there is a market for consulting about these multi-physical design challenges, so drop me a message if you think there's somewhere where the software I design or my expertise can help you.\n\n🇪🇺🇪🇸🇵🇦",
     "location": {
       "countryCode": "US",
       "address": "United Kingdom"
@@ -27,7 +27,7 @@
       "startDate": "2020-11-30",
       "endDate": "",
       "highlights": [],
-      "summary": "Design of commercial electronics control modules for photonics applications.",
+      "summary": "I have:\n- Developed next-generation electronics to control integrated photonic systems, and some core mixed-signal circuitry to implement this. I have designed industry-quality DFM PCBs for large-scale production.\n- Programmed low-level C firmware to control mixed-signal chips.\n- Designed, prototyped and led to production low-noise switch-mode power circuitry circuits alongside analogue filtering.\n- Supported customers and helped them solve implementation or novel-application problems using our systems.\n- Mantained the Python API for our customers.",
       "url": "https://www.linkedin.com/company/qontrol-systems-llp/",
       "location": "Bristol, England, United Kingdom"
     },
@@ -37,7 +37,7 @@
       "startDate": "2020-06-30",
       "endDate": "2020-11-30",
       "highlights": [],
-      "summary": "I designed analogue and digital electronic systems for next-generation commercial integrated photonics controllers.",
+      "summary": "During my internship, I designed a customer-facing electronic product to extend our product range. It involved USB-C design, PCB design, and integration with previous products. I also began working on next-generation analogue and digital electronic systems for next-generation commercial integrated photonics controllers. This involved mixed-signal circuit and PCB design.",
       "url": "https://www.linkedin.com/company/qontrol-systems-llp/",
       "location": "Bristol, England, United Kingdom"
     },
@@ -160,7 +160,22 @@
   "publications": [],
   "skills": [
     {
-      "name": "Leadership",
+      "name": "Electronics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integrated Photonics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open-Source Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Printed Circuit Board (PCB) Design",
       "level": "",
       "keywords": []
     },
@@ -170,22 +185,7 @@
       "keywords": []
     },
     {
-      "name": "Engineering",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Project Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "LaTeX",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "AutoCAD",
+      "name": "Customer Support",
       "level": "",
       "keywords": []
     },
@@ -200,17 +200,17 @@
       "keywords": []
     },
     {
-      "name": "Lean Manufacturing",
+      "name": "Analog Circuits",
       "level": "",
       "keywords": []
     },
     {
-      "name": "HTML5",
+      "name": "Mixed-Signal Integrated Circuits",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Travail d’équipe",
+      "name": "Project Management",
       "level": "",
       "keywords": []
     },
@@ -220,17 +220,7 @@
       "keywords": []
     },
     {
-      "name": "Microsoft Excel",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programming",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Parler en public",
+      "name": "Engineering",
       "level": "",
       "keywords": []
     },
@@ -240,7 +230,82 @@
       "keywords": []
     },
     {
+      "name": "Digital Electronics",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arduino",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cadence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AutoCAD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Autodesk",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MATLAB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Travail d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Parler en public",
       "level": "",
       "keywords": []
     }
